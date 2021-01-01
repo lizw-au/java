@@ -1,7 +1,9 @@
 public class Magic {
 	public static void main(String[] args) {
+    /*A little game of math magic - regardless of myNumber value, you'll get the same answer in stepSix. Magic!*/
+    
     //this is referred to as the original number
-		int myNumber = 1;
+		int myNumber = 100;
 
     int stepOne = myNumber * myNumber;
     int stepTwo = stepOne + myNumber;
